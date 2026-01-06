@@ -25,4 +25,4 @@ def read_root():
     return {"message": "Hello, FastAPI running on port 300!"}
 
 if __name__ == "__main__":
-    uvicorn.run("app:app", host="0.0.0.0", port=300, reload=True)
+    uvicorn.run("app:app", host="0.0.0.0", port=3000, reload=True)
