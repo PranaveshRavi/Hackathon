@@ -4,3 +4,6 @@
 
 # Commonly ignored for libraries
 uv.lock
+
+
+__pycache__/**
