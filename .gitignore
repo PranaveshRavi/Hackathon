@@ -1,1 +1,6 @@
 .trunk
+.python-version
+
+
+# Commonly ignored for libraries
+uv.lock
